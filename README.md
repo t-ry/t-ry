@@ -1,5 +1,10 @@
-### Hi there 👋
+###　About takahashi.r
+-------------------------
+Hi there👋 I'm a Student of Meijo Univ.
+I’m currently learning about AndroidApp, Web-Front technologies. 
+I look forward to working with you again in the future. 🤝
 
+## 🌱my skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,babel,kotlin,androidstudio,mysql,)](https://skillicons.dev)
 
 <p align="left"> 
