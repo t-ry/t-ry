@@ -1,6 +1,6 @@
 ### About t-ry 🐢
 -------------------------
-Hi there👋 I'm a Student of Meijo Univ.
+Hi there👋 I'm a Student of Meijo Univ.  
 I’m currently learning about AndroidApp, Web-Front technologies. 
 
 ### 🌱my skills
