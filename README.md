@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={t-ry}&layout=compact&theme=onedark
+)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **t-ry/t-ry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
