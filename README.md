@@ -1,7 +1,7 @@
 ### About t-ry 🐢
 -------------------------
 Hi there👋 I'm a Student of Meijo Univ.  
-I’m currently learning about AndroidApp, Web-Front technologies. 
+I’m currently learning about AndroidApp and Web-Front technologies. 
 
 ### 🌱my skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,jquery,netlify,react,babel,nodejs,kotlin,androidstudio,mysql,)](https://skillicons.dev)
