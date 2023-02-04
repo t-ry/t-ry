@@ -1,4 +1,4 @@
-### 🐢About takahashi.r
+### About takahashi.r 🐢
 -------------------------
 Hi there👋 I'm a Student of Meijo Univ.
 I’m currently learning about AndroidApp, Web-Front technologies. 
