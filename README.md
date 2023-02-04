@@ -1,12 +1,14 @@
-### 🐢 About takahashi.r
+### 🐢About takahashi.r
 -------------------------
 Hi there👋 I'm a Student of Meijo Univ.
 I’m currently learning about AndroidApp, Web-Front technologies. 
 I look forward to working with you again in the future. 🤝
 
-## 🌱my skills
+### 🌱my skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,babel,kotlin,androidstudio,mysql,)](https://skillicons.dev)
 
+### 📈Status
+-------------------
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-ry&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t-ry&theme=onedark&show_icons=ture" />
