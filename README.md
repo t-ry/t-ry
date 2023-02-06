@@ -3,11 +3,8 @@
 Hi there👋 I'm a Student of Meijo Univ.  
 I’m currently learning about AndroidApp and Web-Front technologies.
 
-### my major skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,androidstudio,mysql,)](https://skillicons.dev)
-
-### 🌱other skills
-[![My Skills](https://skillicons.dev/icons?i=jquery,netlify,react,babel,nodejs,)](https://skillicons.dev)
+### 🌱My skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,kotlin,androidstudio,mysql,jquery,netlify,react,babel,nodejs,)](https://skillicons.dev)
 
 ### 📈Status
 ***
