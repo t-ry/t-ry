@@ -10,7 +10,7 @@ I’m currently learning about AndroidApp and Web-Front technologies.
 ***
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t-ry&theme=onedark&show_icons=ture" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=t-ry&theme=onedark&column=7
