@@ -1,9 +1,3 @@
-
-<p align="left"> 
-  <img alt="Git Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t-ry&show_icons=true&theme=transparent" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-ry&theme=transparent&hide_progress=true" />
-</p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=t-ry&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 <!--
